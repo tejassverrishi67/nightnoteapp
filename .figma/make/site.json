@@ -1,0 +1,10 @@
+{
+  "description": "A planning app helping students capture nightly thoughts, organize morning tasks by priority, and track progress with personalized reminders and insights.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "NightNote",
+  "description": "Convert night thoughts into actionable morning focus missions.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

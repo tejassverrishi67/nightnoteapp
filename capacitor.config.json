@@ -1,0 +1,6 @@
+{
+  "appId": "com.nightnote.app",
+  "appName": "NightNote",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
